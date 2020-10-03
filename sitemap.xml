@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://sebvincent.fr/</loc>
+    <lastmod>2015-03-23T10:10:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sebvincent.fr/refs/peugeot_cycle/</loc>
+    <lastmod>2015-03-23T10:10:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sebvincent.fr/refs/peugeot_config/</loc>
+    <lastmod>2015-03-23T10:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sebvincent.fr/refs/MS_interactive-lookbook/</loc>
+    <lastmod>2015-03-23T10:04:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sebvincent.fr/refs/36-interactive-lookbook/</loc>
+    <lastmod>2015-03-22T11:32:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sebvincent.fr/refs/RATP-les-marechales/</loc>
+    <lastmod>2015-03-22T11:30:05+01:00</lastmod>
+  </url>
+  
+</urlset>

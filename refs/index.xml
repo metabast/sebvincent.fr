@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refs on Sébastien VINCENT</title>
+    <link>http://sebvincent.fr/refs/</link>
+    <description>Recent content in Refs on Sébastien VINCENT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 23 Mar 2015 10:10:21 +0100</lastBuildDate>
+    <atom:link href="http://sebvincent.fr/refs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configurateur Peugeot Cycle</title>
+      <link>http://sebvincent.fr/refs/peugeot_cycle/</link>
+      <pubDate>Mon, 23 Mar 2015 10:10:21 +0100</pubDate>
+      
+      <guid>http://sebvincent.fr/refs/peugeot_cycle/</guid>
+      <description>&lt;p&gt;Cette interface présente la collection de cycles Peugeot 2011 par le biais d&amp;rsquo;un configurateur dynamique. À chaque fois que l&amp;rsquo;utilisateur spécifie un paramètre (usage, sexe, préférences..) la silhouette filaire 3D évolue vers la forme d&amp;rsquo;un des vélos répondant à ses attentes. Les sélections effectuées sont présentés en rotations 3D hyperréalistes produites par notre client Serious Factory. Elles sont accompagnées de fiches techniques et de points forts du vélo. Pour ce projet AEON a spécialement développé en AS3 un outil spécifique permettant l&amp;rsquo;édition de courbes 3D permettant ces morphings filaires.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Configurateur Peugeot Auto</title>
+      <link>http://sebvincent.fr/refs/peugeot_config/</link>
+      <pubDate>Mon, 23 Mar 2015 10:05:48 +0100</pubDate>
+      
+      <guid>http://sebvincent.fr/refs/peugeot_config/</guid>
+      <description>&lt;p&gt;Recherche de GUI pour configurateur&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MS - interactive lookbook</title>
+      <link>http://sebvincent.fr/refs/MS_interactive-lookbook/</link>
+      <pubDate>Mon, 23 Mar 2015 10:04:59 +0100</pubDate>
+      
+      <guid>http://sebvincent.fr/refs/MS_interactive-lookbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>36 - interactive lookbook</title>
+      <link>http://sebvincent.fr/refs/36-interactive-lookbook/</link>
+      <pubDate>Sun, 22 Mar 2015 11:32:30 +0100</pubDate>
+      
+      <guid>http://sebvincent.fr/refs/36-interactive-lookbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RATP les marechales</title>
+      <link>http://sebvincent.fr/refs/RATP-les-marechales/</link>
+      <pubDate>Sun, 22 Mar 2015 11:30:05 +0100</pubDate>
+      
+      <guid>http://sebvincent.fr/refs/RATP-les-marechales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
